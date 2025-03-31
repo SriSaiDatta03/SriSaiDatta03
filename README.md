@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SriSaiDatta03 
+- 👋 Hi, I’m @SriSaiDattaBhogapurapu
 - 👀 I’m interested in Software Development, Data Science, and building innovative tech solutions.  
 - 🌱 I’m currently learning Django to create MAANG-level projects and enhancing my skills in Machine Learning and Data Analytics.  
 - 💞️ I’m looking to collaborate on data-driven projects, open-source contributions, and building impactful solutions in domains like e-commerce, real-time analytics, and education.  
